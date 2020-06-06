@@ -33,11 +33,11 @@
              </div>
              <div id="prots-mission" class="tab-pane fade">
                <h3>PROTS MISSION</h3>
-               <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+               <p>A godly relationship that aims to worship and give glory to the Lord.</p>
              </div>
              <div id="prots-vision" class="tab-pane fade">
                <h3>PROTS VISION</h3>
-               <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+               <p>To be a couple that everybody will be blessed to witness, and who will be an example that can be followed.</p>
              </div>
              <div id="prots-core-values" class="tab-pane fade">
                <h3>PROTS CORE VALUES</h3>
